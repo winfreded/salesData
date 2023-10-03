@@ -1,0 +1,55 @@
+
+
+#MainDiv{
+	background:red;
+	height:100vh;
+	}
+#Advert{
+	height:150px;
+	background:#96B2DB;
+	}
+	
+#NavBar{
+	background:#70A703 !important; 
+	height:250px;
+	
+	}
+.oneclassforall{
+	width:90%;
+	margin-left:auto;
+	margin-right:auto;
+	}
+.menus{
+	height:50px;
+	color:#CCCCCC;
+	font-weight:bold;
+
+	padding:5px;
+	float:left;
+	clear:right;
+	width:10%;
+	border:3px solid;
+	border-color:red;
+	border-radius:5px;
+
+
+	}
+	
+#menu1{background:#70A703}
+#menu2{background:#FF0001}
+#menu3{background:#02AAE9}
+#menu4{background:#963A8C}
+#menu5{background:#FFBC0A}
+#menu6{background:#1E446B}
+#menu7{background:#FF5A0A}
+#menu8{background:#9E7241}
+
+#testingboarderradius{
+	border-radius:10px;
+	border-radius-top-left:
+	height:200px;
+	background:#000000;
+	width:500px;
+	margin-top:5%;
+	
+	}
